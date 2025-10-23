@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://ruswaterclub.2828.ru/sitemap.xml
+Disallow: /a/a.php
+Host: ruswaterclub.2828.ru
+Crawl-delay: 8
